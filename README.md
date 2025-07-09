@@ -39,8 +39,7 @@ A minimal and responsive **To-Do List** built with **React**, styled using **Tai
 
 > _Include screenshots to showcase the app UI_  
 <p align="center">
-  <img src="screenshots/todo-light.png" width="600" />
-  <img src="screenshots/todo-dark.png" width="600" />
+  <img src="image.png" width="600" />
 </p>
 
 ---
